@@ -17,7 +17,24 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      "Private", 
+      "Templates", 
+      ".DS_Store",
+      ".trash",
+      ".smart-env",
+      ".reference-map",
+      ".obsidianIpad",
+      ".obsidianPhone",
+      "Reference",
+      "Clippings",
+      "Notes",
+      "Inbox",
+      "1111",
+      "Assets2",
+      "Excalidraw",
+      "Literature",
+      "Journal"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -57,7 +74,8 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        // priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -71,9 +89,12 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      Plugin.RemoveDrafts(),
+      Plugin.ExplicitPublish(), 
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
