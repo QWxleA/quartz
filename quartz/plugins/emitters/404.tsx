@@ -36,7 +36,8 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
       const notFound = i18n(cfg.locale).pages.error.title
       const [tree, vfile] = defaultProcessedContent({
         slug,
-        text: notFound,
+        text: "hahahaha",
+        // text: notFound,
         description: notFound,
         frontmatter: { title: notFound, tags: [] },
       })

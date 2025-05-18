@@ -1,10 +1,12 @@
 ---
 title: digital garden
 date: 2023-04-16
-aliases: digital garden
-tags: concept review
-# undeveloped seedling growing evergreen 
-status: "seedling"
+aliases:
+  - digital garden
+tags:
+  - concept
+  - review
+status: seedling
 publish: true
 ---
 [[Zettelkasten and Evergreen notes]]
