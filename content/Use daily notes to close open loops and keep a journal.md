@@ -13,7 +13,7 @@ public: true
 
 The habit of starting _all_ writing in the [[daily note]] reduces friction and stress
 	- Key understanding of a good (daily) [[pkm]]
-	- It is just easy, you don't have to think where stuff goes. Journaling in itself reduces stress [[🌱 Journaling is healthy for mind and body]]
+	- It is just easy, you don't have to think where stuff goes. Journaling in itself reduces stress [[Journaling is healthy for mind and body]]
 	- If I like it (and want to reuse it) I can put the information in a more permanent place
 	- Play-space, solves high barrier. Prototype and just write.
 	- Logging progress in the daily journal creates the possibility to see progress [[Start a new habit with something simple, there will be a bigger change of success]]

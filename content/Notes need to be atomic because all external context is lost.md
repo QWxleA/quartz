@@ -1,5 +1,5 @@
 ---
-title: Notes need to be atomic because all context is lost
+title: 🌱 Notes need to be atomic because all context is lost
 date: 2023-04-15
 aliases: 
 tags:

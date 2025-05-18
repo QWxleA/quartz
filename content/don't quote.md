@@ -17,7 +17,7 @@ public: true
 
 > Quotes are not notes. Notes are what you have to say about the quotes – [usfmk3@r/Zettelkasten](https://www.reddit.com/r/Zettelkasten/comments/usfmk3/quotes_are_not_notes_creating_a_zettelkasten_of/)
 
-Verbatim quoting **seldom adds something directly useful to a PKM**. Think about the item, then rewrite it, this will help really thinking things through, and we show ourselves we really understand the subject. [[🌱 For notes to be useful, actively engage with them]] Rewriting a quote translates the information from somebody else’s to our thoughts.
+Verbatim quoting **seldom adds something directly useful to a PKM**. Think about the item, then rewrite it, this will help really thinking things through, and we show ourselves we really understand the subject. [[For notes to be useful, actively engage with them]] Rewriting a quote translates the information from somebody else’s to our thoughts.
 
 ![[Pasted image 20230526195857.png|300]]
 (source: [How (and Why) I Collage the Sunday New York Times Newspaper — rachel a. dawson](https://www.racheladawson.com/blog/2020/7/27/how-and-why-i-collage-the-sunday-new-york-times-newspaper))

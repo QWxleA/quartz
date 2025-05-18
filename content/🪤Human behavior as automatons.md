@@ -11,7 +11,7 @@ This is an index related to human behavior and how we have much less of [[free w
 - [[🌱 recognizing problems is the first step to solving them]]
 - [[To reduce friction people should use applications or tools that fit their personality]]
 	- [[Trust the system, and learn to let go]]
-- [[🌱 Journaling is healthy for mind and body]]
+- [[Journaling is healthy for mind and body]]
 
 ## Concepts related to psychology
 - [[cognitive bias]]
