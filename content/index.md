@@ -1,12 +1,12 @@
 ---
-publish: true
+public: true
 ---
 > [!abstract] About
 > Hi! My online persona is Alex Qwxlea and these are my public notes, or [[digital garden]], if you will. The fields that currently interest me:
 
-- Note taking
+- Note taking [notetaking](tags/notetaking)
 - Sleep
-- Music ([Jazz](/tags/jazz))
+- Music [jazz](/tags/jazz)
 
 This site is a reboot of my [Obsidian](https://obsidian.md) public site, which was nice, but not doing it anymore.
 

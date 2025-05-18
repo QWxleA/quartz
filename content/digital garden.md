@@ -7,7 +7,7 @@ tags:
   - concept
   - review
 status: seedling
-publish: true
+public: true
 ---
 [[Zettelkasten and Evergreen notes]]
 
