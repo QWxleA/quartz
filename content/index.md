@@ -1,5 +1,6 @@
 ---
 public: true
+"title:": 🏡 🙏🏼 👀
 ---
 > [!abstract] About
 > Hi! My online persona is Alex Qwxlea and these are my public notes. The fields that currently interest me:

@@ -50,7 +50,7 @@ title: 🗄️ Keyword Index
 - #understanding [[🌱 there is understanding in the combination of ideas]]
 	- #knowledge [[For information to become knowledge it should be processed]]
 		- #analysis [[transcription and copying leads to lack of understanding. It leads to passive study instead of active engagement]]
-			- #resistance [[🌱 parsing information should not be too easy, as it invites shallow studying]]
+			- #resistance [[parsing information should not be too easy, as it invites shallow studying]]
 	- #specific [[A permanent note should answer one specific question]]
 		- #naming [[🌱 Declarative titles test the validity of the note's claim]]
 	- #vision [[A good note connects your current understanding with the needs of your future work]]
