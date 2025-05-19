@@ -15,11 +15,15 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+const breadcrumbsConfig = {
+  rootName: "🏡"
+}
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: Component.Breadcrumbs(breadcrumbsConfig),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
