@@ -40,7 +40,7 @@ This workflow has constant input, processing is the bottleneck. Needs to reduce 
 
 - [ ] Create an Apple shortcut to add anything to a dedicated page in Obsidian
 ## See also
-[[🌱 most information is useless or redundant. filter out everything you won't make notes about]]
+[[most information is useless or redundant. filter out everything you won't make notes about]]
 
 ---
 _reference:_

@@ -18,13 +18,13 @@ public: true
 Quoting or copying is passive, more about personal gratification then about note-taking. Use your own words, think about the contents of a note.
 
 First (re)write (summarise) the idea in your own words, as succinct and clear as possible ([[Notes need to be atomic because all external context is lost]]) 
-Next, link ideas, [[🌱 there is understanding in the combination of ideas]]
-Revisit and enhance notes, [[🌱 Our understanding broadens and gets strengthened by adding nodes and connections to our ZK]] . This can be done by adding a note into a [[spaced repetition]] system ([[use a spaced-repetition plugin for writing]])
+Next, link ideas, [[there is understanding in the combination of ideas]]
+Revisit and enhance notes, [[Our understanding broadens and gets strengthened by adding nodes and connections to our ZK]] . This can be done by adding a note into a [[spaced repetition]] system ([[use a spaced-repetition plugin for writing]])
 
 The [[generation effect]] is at play here; by writing our own notes, instead of copying (potentially better!) notes, but the end-result is that we better remember (and understand) the subject.
 
 [[A quote is an idea without context. An idea without context is ill-defined, and cannot be used]]
-[[🌱 highlighting is a dangerous technique to separate important points from others. It is too easy to ignore main points]]
+[[highlighting is a dangerous technique to separate important points from others. It is too easy to ignore main points]]
 [[💡hypomnema|hypomnema]]
 ## Literature notes
 >Specifically, when you’re reading, you ought to be writing your own little **summaries** of the most important things you find.

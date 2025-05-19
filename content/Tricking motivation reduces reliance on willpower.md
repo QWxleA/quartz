@@ -9,7 +9,7 @@ tags:
 status: undeveloped
 public: true
 ---
-[[🪤Human behavior as automatons]] #motivation
+[[Human behavior as automatons]] #motivation
 
 > [!warning] This is (mostly) a stub
 

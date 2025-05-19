@@ -15,7 +15,7 @@ public: true
 ---
 [[Zettelkasten and Evergreen notes]] #understanding → #specific → #naming 
 
-A note should either be a statement of fact (from my viewpoint), or something I believe to be true. (It should should also be as *small* as possible, add only as much context as is needed to understand the note. This will make linking easier, [[🌱 there is understanding in the combination of ideas]] & [[atomic notes should be densely linked]](.
+A note should either be a statement of fact (from my viewpoint), or something I believe to be true. (It should should also be as *small* as possible, add only as much context as is needed to understand the note. This will make linking easier, [[there is understanding in the combination of ideas]] & [[atomic notes should be densely linked]](.
 
 If a note cannot be condensed with a title as *thumbnail*, the contents of the note might be unclear, or contain too many ideas.
 

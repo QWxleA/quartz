@@ -11,7 +11,7 @@ sr-ease: 321
 permalink: start-a-new-habit-simple
 public: true
 ---
-[[🪤Human behavior as automatons]]  #habits
+[[Human behavior as automatons]]  #habits
 
 The key to acquiring a habit is not the completion of the goal, it is the **consistency** with which the task is being performed.
 

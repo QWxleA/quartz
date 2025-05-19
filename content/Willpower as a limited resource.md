@@ -10,7 +10,7 @@ created: 2023-04-19T07:49:49+02:00
 updated: 2023-04-19T07:49:49+02:00
 public: true
 ---
-[[🪤Human behavior as automatons]] #willpower
+[[Human behavior as automatons]] #willpower
 
 **Definition of willpower:** ([[What you need to know about willpower - The psychological science of self-control#^6f1f00b3|source]])
 According to most psychological scientists, willpower can be defined as:

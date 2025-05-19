@@ -27,7 +27,7 @@ An atomic note is taken out of it's original **context**, so it must be able to 
 When creating an atomic note, one has to keep in mind that a note has more then one **purpose**:
 - One idea, compact, but more or less complete [[A quote is an idea without context. An idea without context is ill-defined, and cannot be used]]
 - A potential card to use with [[spaced repetition]]
-- A link in a line of thought [[🌱 note sequences are the key to ZK, they create clusters that birth new ideas]]
+- A link in a line of thought [[note sequences are the key to ZK, they create clusters that birth new ideas]]
 
 ## (Primary) Sources
 > If you adhere to the principle of atomicity, you aim to **map one idea with one note** in your Zettelkasten. 
@@ -44,4 +44,4 @@ When creating an atomic note, one has to keep in mind that a note has more then 
 > – [Create Zettel from Reading Notes According to the Principle of Atomicity • Zettelkasten Method](https://zettelkasten.de/posts/create-zettel-from-reading-notes/)
 
 ## See also
-[[🌱 Declarative titles test the validity of the note's claim]]
+[[Declarative titles test the validity of the note's claim]]

@@ -18,7 +18,7 @@ Being busy is not the same as being productive. To correctly asses oneself produ
 
 Thinking we are productive because we *feel* good about how things are going in itself is also not a good indicator. Working hard while not being productive  might lead to burnout, or disappointment.
 
-Despite popular opinion [[🌱 multi-tasking does not lead to increased productivity]]
+Despite popular opinion [[multi-tasking does not lead to increased productivity]]
 
 - [[misapplied tools might trick people into thinking they understand material better than they do. It leads to busy-work. The look of understanding]]
 - [[seeking short term external rewards is dangerous and harmful. Personal motivation, fueled by successful work is a solid long-term solution]]

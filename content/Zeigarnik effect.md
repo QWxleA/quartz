@@ -8,7 +8,7 @@ created: 2023-04-14T17:18:31+02:00
 updated: 2023-04-21T17:13:31+02:00
 public: true
 ---
-[[🪤Human behavior as automatons]] 
+[[Human behavior as automatons]] 
 
 # Zeigarnik effect
 
@@ -36,7 +36,7 @@ The Wikipedia article has several sources for further reading
 The _Zeigarnik effect_ is a psychological **phenomenon** where people tend to remember unfinished or interrupted tasks better than completed ones. First observed by Soviet psychologist Bluma Zeigarnik in the 1920s, this effect suggests that the mind creates tension around incomplete tasks, making them more memorable and pressing until they are resolved. It has **implications** for productivity, motivation, and even everyday experiences like earworms (songs stuck in one’s head) or the tendency to dwell on unresolved issues. The Zeigarnik effect is often **leveraged** in storytelling, marketing, and habit formation to maintain engagement and encourage task completion.
 
 ---
-- [[🌱 People tend to remember unfinished, interrupted or incomplete tasks better than completed tasks]]
+- [[People tend to remember unfinished, interrupted or incomplete tasks better than completed tasks]]
 - [[book/The Art of Sustainable Performance: The Zeigarnik Effect]]
 - [[concept]]
 	- The Zeigarnik effect states that people tend to remember unfinished or incomplete tasks better than completed tasks

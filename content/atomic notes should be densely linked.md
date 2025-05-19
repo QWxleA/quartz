@@ -14,7 +14,7 @@ public: true
 ---
 [[Zettelkasten and Evergreen notes]] #connection → #overview → #branching 
 
- [[Notes/Evergreen notes should be atomic]], which means they are per definition small. To make them more useful we should link them to other notes  ([[🌱 there is understanding in the combination of ideas]]).
+ [[Notes/Evergreen notes should be atomic]], which means they are per definition small. To make them more useful we should link them to other notes  ([[there is understanding in the combination of ideas]]).
 
 Every note has its own context ([[Notes need to be atomic because all external context is lost]]), but  linking them to another note gives it extra context, and enlarges its usefulness and application.
 

@@ -18,7 +18,7 @@ Reading exposes one to smarter or more knowledgeable people. Thinking about what
 
 **Make a distinction between peoples opinions and facts.** For self-improvement one has to draw conclusions about facts, not copy other peoples thoughts.
 
-After an idea has formed, put it into words. Only by explaining an idea can we really make it our own, and thus improve. [[🌱 feynman technique]]
+After an idea has formed, put it into words. Only by explaining an idea can we really make it our own, and thus improve. [[feynman technique drawing]]
 
 ## Literature notes 
 > Active reading simply means **reading something with a determination to understand and evaluate it for its relevance to your needs** – [Critical reading techniques: Active reading | Help Centre | The Open University](https://help.open.ac.uk/active-reading#:~:text=Active%20reading%20simply%20means%20reading,content%20can%20save%20you%20time.)

@@ -18,7 +18,7 @@ Colors, placement on the page and colors can convey ideas, or meta-data about a 
 
 The opposite is also true, inconsistency adds noise and distraction, sometimes even confuses to the point of misunderstanding a text.
 
-Having a *beautiful* work environment reduces friction and improves joy, even understanding. [[🌱 Elegant shapes and beauty promote understanding]] This is why a decent theme, and using colors and emojis make note taking better ([[obsidian theming]]).
+Having a *beautiful* work environment reduces friction and improves joy, even understanding. [[Elegant shapes and beauty promote understanding]] This is why a decent theme, and using colors and emojis make note taking better ([[obsidian theming]]).
 
 Obsidian specific: Callouts are a simple and consistent way to add meta-data. Workspaces can be used to create specific layouts for specific tasks. 
 

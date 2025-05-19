@@ -8,7 +8,7 @@ tags:
 status: evergreen
 public: true
 ---
-[[🪤Human behavior as automatons]] #cognitive_bias  / #cognitive_distortion 
+[[Human behavior as automatons]] #cognitive_bias  / #cognitive_distortion 
 
 ![[Dunning-Kruger effect anki]]
 

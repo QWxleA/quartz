@@ -11,7 +11,7 @@ updated: 2023-04-20T08:01:27+02:00
 permalink: collectors-fallacy
 public: true
 ---
-[[🪤Human behavior as automatons]] 
+[[Human behavior as automatons]] 
 
 > Because ‘to know about something’ isn’t the same as ‘knowing something’ — [[Christian]], The Collector’s Fallacy
 

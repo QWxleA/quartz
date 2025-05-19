@@ -12,7 +12,7 @@ sr-interval: 390
 sr-ease: 330
 public: true
 ---
-[[🪤Human behavior as automatons]] #feedback 
+[[Human behavior as automatons]] #feedback 
 
 When we are put of by negative feedback, it might be that the feedback is given at the wrong time in our pursuit. If we are not established enough, negative feedback is felt as destructive. Understanding this will help us look past it, and see it as *just feedback*, a response that we can use (or ignore).
 

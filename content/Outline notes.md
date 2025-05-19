@@ -62,8 +62,8 @@ If the list Order is not too strict,  surprising themes can emerge
 
 - [[PKMs need limited chaos to flourish substance is more important then form]]
 - [[insights or originality occurs at the juncture of two before unrelated concepts]]
-- [[🌱 there is understanding in the combination of ideas]]
-- [[🌱 There is freedom in letting go of assumptions and limits. These less traveled paths will be more fulfilling and adventurous]]
+- [[there is understanding in the combination of ideas]]
+- [[There is freedom in letting go of assumptions and limits. These less traveled paths will be more fulfilling and adventurous]]
 
 
 

@@ -30,7 +30,7 @@ Unsatisfactory systems, if users are forced to use them, facilitate the use of w
 [[A fitting work environment will enhance productivity]]
 [[Defining satisfactory workflows reduce stress and increase productivity]]
 [[Permanent notes are intellectual creativity]]
-[[🌱 workflows feed into habits]]
+[[workflows feed into habits]]
 ## Literature notes 
 ![[ahrens_2022#^43cda5]]
 ![[ahrens_2022#^3380e8]]

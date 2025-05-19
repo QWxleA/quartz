@@ -1,5 +1,5 @@
 ---
-title: People tend to remember unfinished, interrupted or incomplete tasks better than completed tasks
+title: 🌱 People tend to remember unfinished, interrupted or incomplete tasks better than completed tasks
 date: 2023-04-16
 aliases:
   - people-tend-to-remember-unfinished-interrupted-or-incomplete-tasks-better-than-completed-tasks

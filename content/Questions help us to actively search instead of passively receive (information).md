@@ -25,7 +25,7 @@ If we **do not yet know** why we read a specific text, we can use the HQ&A metho
 ### What is **HQ&A**? #flashcard
 - highlight the main points
 - ask questions → main points should answer
-- can I explain it? [[🌱 feynman technique]] → can I explain it to a 12 year old?
+- can I explain it? [[feynman technique drawing]] → can I explain it to a 12 year old?
 
 ---
 ## Related   

@@ -17,9 +17,9 @@ public: true
 ---
 [[Zettelkasten and Evergreen notes]] #creativity 
 
-Copying and pasting other peoples writing creates nothing new, nor is highlighting articles a form of building anything. [[🌱 Studying and highlighting is not to cover material, it is to add notes to our zettelkasten. For this we should always keep in mind, how does what I read fit with my other notes?]] These actions can be the precursor to writing permanent notes, though. When we collect information and form our own opinion about a subject in reaction to something we studied, we can say that for us: we created something *new*.
+Copying and pasting other peoples writing creates nothing new, nor is highlighting articles a form of building anything. [[Studying and highlighting is not to cover material, it is to add notes to our zettelkasten. For this we should always keep in mind, how does what I read fit with my other notes?]] These actions can be the precursor to writing permanent notes, though. When we collect information and form our own opinion about a subject in reaction to something we studied, we can say that for us: we created something *new*.
 
-But for this to go beyond simple understanding what other people said we have to create connections between our notes, and in response to *that*, update or add our own notes. [[🌱 Our understanding broadens and gets strengthened by adding nodes and connections to our ZK]]
+But for this to go beyond simple understanding what other people said we have to create connections between our notes, and in response to *that*, update or add our own notes. [[Our understanding broadens and gets strengthened by adding nodes and connections to our ZK]]
 
 To be creative one should want more then just cover the underlying material. [[Create notes with a view on creation, not rehashing old ideas]]
 

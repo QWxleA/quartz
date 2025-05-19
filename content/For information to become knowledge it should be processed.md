@@ -23,7 +23,7 @@ Without actually engaging with content, understanding it, and connecting it to e
 	- information-action ratio
 	- create a note in a [[spaced repetition]] system
 	- share a note with others
-- Information should be **relevant**, not only on an emotional but also on intellectual level [[🌱 most information is useless or redundant. filter out everything you won't make notes about]]
+- Information should be **relevant**, not only on an emotional but also on intellectual level [[most information is useless or redundant. filter out everything you won't make notes about]]
 - For **gradual** improvement: [[spaced repetition enables a workflow of incrementally improving notes]]
 ## See also 
 - [[learning in public]]

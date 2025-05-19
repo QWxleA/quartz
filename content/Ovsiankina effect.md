@@ -7,7 +7,7 @@ created: 2023-04-14T17:18:32+02:00
 updated: 2023-04-16T21:44:28+02:00
 public: true
 ---
-[[🪤Human behavior as automatons]]
+[[Human behavior as automatons]]
 
 # Ovsianka effect
 #cognitive_bias #behavior

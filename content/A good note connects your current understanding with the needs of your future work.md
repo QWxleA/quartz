@@ -16,7 +16,7 @@ public: true
 
 When finished, an atomic note is good as it is ([[learn to let go]]). But it is not the end of the story. It is finished now but will be a building block for something else tomorrow ([[notes are simply components, stripped of external context, collected for future use]]). 
 
-Notes are relatively small, its easy to revisit them. Over time our understanding of a subject changes. We also just get better at creating notes. Even if the content of a note changes, connection with other note stay in place. This makes a note a bridge to future understanding. Important to have good titles! [[🌱 Declarative titles test the validity of the note's claim]]
+Notes are relatively small, its easy to revisit them. Over time our understanding of a subject changes. We also just get better at creating notes. Even if the content of a note changes, connection with other note stay in place. This makes a note a bridge to future understanding. Important to have good titles! [[Declarative titles test the validity of the note's claim]]
 
 A note contains our *current understanding*. [[spaced repetition enables a workflow of incrementally improving notes]] will help us to revisit notes, so even if our current knowledge is lacking, over time the note will improve. 
 

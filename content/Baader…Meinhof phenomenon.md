@@ -8,7 +8,7 @@ created: 2023-04-14T17:11:42+02:00
 updated: 2023-04-16T15:37:43+02:00
 public: true
 ---
-[[🪤Human behavior as automatons]] #cognitive_bias 
+[[Human behavior as automatons]] #cognitive_bias 
 # Baader-Meinhof phenomenon
 
 also known as frequency illusion. 

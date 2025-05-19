@@ -14,11 +14,11 @@ sr-ease: 334
 permalink: to-reduce-friction-use-application-fitting-personality
 public: true
 ---
-[[🪤Human behavior as automatons]] #personality_type 
+[[Human behavior as automatons]] #personality_type 
 
 Even when performing the same task, different people will take different approaches, based on their temperament and personality. [[A fitting work environment will enhance productivity]] A PKM is such an personal instrument that it should be a close fit. Try to avoid finding the coolest or the newest app. [[seeking short term external rewards is dangerous and harmful. Personal motivation, fueled by successful work is a solid long-term solution]] Instead find an application that allows you to work how you want. [[Three main note-taking styles]]
 
-This will also ensure more longterm success [[🌱 Key applications should be chosen with the long view in mind]]
+This will also ensure more longterm success [[Key applications should be chosen with the long view in mind]]
 
 Note: at the same time, a PKM should be a long-term project, so the *longevity of an app* should be take into consideration as well. Markdown, as annoying as it is, is a good example. It is likely to be around ten years from now, and is simple enough to be used with a plethora of applications.
 

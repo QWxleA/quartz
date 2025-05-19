@@ -30,6 +30,8 @@ This page is used to try to be more ==consistent== in my colors, highlights, etc
 ### Highlighting text
 The ==main point== should be highlighted, while the **supporting evidence** is bold. Use italic for _exceptionally_ nicely phrased expressions (in practice it can also be used for stress).
 
+
+
 ### Zotero Annotating text (pdf and epub)
 ![[Making Proper Marks in Books • Zettelkasten Method#^de8630b1]]
 Original source: [[How to Write a Thesis - Umberto Eco#^b1fda7|here]]
@@ -50,8 +52,9 @@ Also: [[Color-Code Elements in text Analysis]]
 
 See: [[Notes/zotero template]]
 
-### Yomu colors
+### Default colors
 
+These colors work for **paper notes**, and the **yomu** ebook app. 
 Yomu has its own (markdown) exporter, but the JSON export has more information, like the colours of the highlight
 
 | **Color**          | **Use**                       |       
@@ -98,7 +101,7 @@ Obsidian plugin: [GitHub - joethei/obsidian-link-favicon: See the favicon for a 
 Callouts are great for announcements, and meta-data.
 - [ ] Would it be hard to add *asides* (custom CSS)?
 
-The new [[1 concept template]] uses callouts for the main point of an [[evergreen notes|evergreeen note]] , if it doesn’t fit inside a callout, then it is probably too long → [[🌱 feynman technique]]
+The new [[1 concept template]] uses callouts for the main point of an [[evergreen notes|evergreeen note]] , if it doesn’t fit inside a callout, then it is probably too long → [[feynman technique drawing]]
 
 See [[Obsidian cheatsheet]]
 

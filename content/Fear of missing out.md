@@ -15,7 +15,7 @@ sr-ease: 344
 permalink: fomo
 public: true
 ---
-[[🪤Human behavior as automatons]] #addiction
+[[Human behavior as automatons]] #addiction
 
 Fear of missing out, of FOMO, is the feeling of anxiety when we might be missing something that others encounter or are part of. One of its manifestations is the desire to be continuously online (on social media).
 

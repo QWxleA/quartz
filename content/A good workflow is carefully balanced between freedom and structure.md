@@ -18,7 +18,7 @@ public: true
 >Structure should enable not hinder – [@theresiatansil](https://twitter.com/theresiatanzil/status/1530753341441028101)
 >[[Structure should enable not hinder|local copy]]
 
-Shortcuts, placeholders and templates give structure to (new) notes. It makes them look uniform ([[Colors and taxonomies]], which makes it easier to see in a glance what is what (lowers mental overhead). At the same time, having lots of placeholder text quickly fills up a PKM with useless template-text.  [[consistent naming and coloring taxonomies lowers mental overhead]]
+Shortcuts, placeholders and templates give structure to (new) notes. It makes them look uniform ([[Colors and taxonomies]], which makes it easier to see in a glance what is what (lowers mental overhead). At the same time, having lots of placeholder text quickly fills up a PKM with useless template-text.  [[Notes/consistent naming and colouring taxonomies lowers mental overhead]]
 
 Making things as simple (to use) as possible makes it easy to serialise work, working in simple steps (incrementally) that help to concentrate on the task at hand, not the procedures to get the task done.  
 

@@ -10,7 +10,7 @@ This is an index related to human behavior and how we have much less of a free w
 
 **Measured productivity**
  - [[it is easy to think we are productive, but it is hard to measure oneself]]
-	- [[🌱 multi-tasking does not lead to increased productivity]]
+	- [[multi-tasking does not lead to increased productivity]]
 
 **workflow**
 - [[A fitting work environment will enhance productivity]]

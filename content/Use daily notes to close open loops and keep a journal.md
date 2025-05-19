@@ -30,7 +30,7 @@ C -->A
 ```
 
 For daily notes to have _lasting value_ they must be **tagged** and [[linking|linked]]
-		- If not tagged, the daily note becomes a black hole where information just disappears. There is just ==too much information to be useful.== [[🌱 most information is useless or redundant. filter out everything you won't make notes about]]
+		- If not tagged, the daily note becomes a black hole where information just disappears. There is just ==too much information to be useful.== [[most information is useless or redundant. filter out everything you won't make notes about]]
 		- information disappears if it is not reused again, later [[Only actively engaged and repeated information is remembered]]
 
 Use [[spaced repetition as a productivity tool]] for ideas noted in the daily note that have no current links?
