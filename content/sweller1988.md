@@ -10,7 +10,7 @@ tags:
 description: Breakdown of Sweller's key finding about how expert knowledge differs from novice knowledge in problem-solving.
 public: true
 ---
-> [!info] What does Sweller mean when talking about schemas distinguishing experts from novices? Experts don't just know more facts - they organize knowledge into interconnected patterns (schemas) that let them recognize problems instantly and access relevant solutions automatically.
+> [!info] What does Sweller mean about schemas distinguishing experts from novices? Experts don't just know more facts - they organize knowledge into interconnected patterns (schemas) that let them recognize problems instantly and access relevant solutions automatically.
 
 ## Breaking Down the Sentence
 
