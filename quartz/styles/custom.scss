@@ -1,3 +1,30 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
+.page-title {
+  & > a img {
+    height: 64px;
+    width: 64px;
+    content: url("./static/icon-light.png");
+    float: left;
+    margin: 0 auto;
+    @media ($mobile) {
+        height: 32px;
+        width: 32px;
+    }
+  }
+  & > a div {
+    text-align: center;
+    margin: 20px auto 0;
+    @media ($mobile) {
+        display: none;
+    }
+  }
+}
+
+:root[saved-theme="dark"] .page-title {
+  & > a img {
+    content: url("./static/icon-dark.png");
+  }
+}
