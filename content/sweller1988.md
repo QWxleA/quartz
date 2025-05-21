@@ -14,15 +14,18 @@ public: true
 
 ## Breaking Down the Sentence
 
+>[!warning] This part is not original work, but at least partly the result of using an LLM
+>The opinions on LLMs are divided. I see them as a tool, and as long as people are open on what is theirs, and what is not I have no problem with it.
+
 **"Domain specific knowledge"** = Knowledge tied to a particular field (chess, medicine, programming, etc.) rather than general intelligence or reasoning ability.
 
 **"In the form of schemes/schemas"** = Information organized into **mental frameworks** that group related concepts, procedures, and patterns together, rather than isolated facts.
 
 **"Primary factor distinguishing experts from novices"** = The main difference isn't raw intelligence, memory capacity, or even total amount of knowledge - it's **how that knowledge is structured**.
 
-## What Are Schemas?
+### What Are Schemas?
 
-Think of schemas as **mental filing systems** that experts develop:
+Think of [[schema|schemas]] as **mental filing systems** that experts develop:
 
 ```typescript
 // Novice schema: isolated facts
@@ -39,13 +42,13 @@ interface ExpertSchema {
 }
 ```
 
-## Real-World Example
+### Real-World Example
 
 **Chess novices** see individual pieces and think about legal moves for each piece.
 
 **Chess experts** see **patterns** - "This is a fork setup," "That's a weak king position," "This formation leads to endgame advantage." They instantly recognize configurations they've seen thousands of times and know the associated strategies.
 
-## Why This Matters for Problem-Solving
+### Why This Matters for Problem-Solving
 
 When experts encounter problems, they don't work through them step-by-step like novices. Instead:
 
@@ -55,24 +58,24 @@ When experts encounter problems, they don't work through them step-by-step like 
 
 This is why a experienced doctor can often diagnose patients within minutes, while medical students need extensive checklists and deliberation.
 
-## Implications for Learning and Teaching
+### Implications for Learning and Teaching
 
-This finding suggests that effective education should focus on helping learners **build schemas** rather than just memorizing facts. Students need to see patterns, practice recognizing them, and understand how concepts connect.
+This finding suggests that effective education should focus on helping learners **build schemas** rather than just memorizing facts. Students need to see patterns, practice recognizing them, and understand how [[concept|concepts]] connect.
 
-## Counter-point
+### Counter-point
 
-Critics argue this view can be overly deterministic, potentially undervaluing creative problem-solving that breaks existing patterns or the role of general reasoning abilities in novel situations where domain schemas don't apply.
+Critics argue this view can be overly [[deterministic]], potentially undervaluing creative problem-solving that breaks existing patterns or the role of general reasoning abilities in novel situations where domain schemas don't apply.
 
 ## Possible related subjects
 
-- Pattern recognition in artificial intelligence
+- [[Pattern recognition]] in artificial intelligence
 - Deliberate practice theory (Anders Ericsson)
-- Chunking in memory research
-- Transfer of learning between domains
+- [[Chunking]] in memory research
+- Transfer of learning between domains → [[domain specific knowledge]] 
 - Expertise development across professions
 
 ## Sources
-
+(This part needs to be moved to [[cognitive load theory]])
 - **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning** - Original source of this finding
 - **Chi, M. T., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices** - Classic study showing how experts organize knowledge differently
 - **Ericsson, K. A. (2006). The influence of experience and deliberate practice** - Research on how expertise develops through practice
