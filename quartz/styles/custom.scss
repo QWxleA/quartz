@@ -1,3 +1,25 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
+.page-title {
+    // background-color: red;
+    background-color: var(--light);
+
+    img {
+        height: 64;
+        width: 64;
+        display: block;
+        margin: 0 auto;
+        content: var(--icon);
+    }
+    div {
+        text-align: center;
+    }
+    @media ($mobile) {
+      div {
+        visibility: hidden;
+        display: none;
+      }
+    }
+}
