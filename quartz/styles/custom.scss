@@ -3,23 +3,28 @@
 
 // put your custom CSS here!
 .page-title {
-    // background-color: red;
-    background-color: var(--light);
-
-    img {
-        height: 64;
-        width: 64;
-        display: block;
-        margin: 0 auto;
-        content: var(--icon);
-    }
-    div {
-        text-align: center;
-    }
+  & > a img {
+    height: 64px;
+    width: 64px;
+    content: url("./static/icon-light.png");
+    float: left;
+    margin: 0 auto;
     @media ($mobile) {
-      div {
-        visibility: hidden;
-        display: none;
-      }
+        height: 32px;
+        width: 32px;
     }
+  }
+  & > a div {
+    text-align: center;
+    margin: 20px auto 0;
+    @media ($mobile) {
+        display: none;
+    }
+  }
+}
+
+:root[saved-theme="dark"] .page-title {
+  & > a img {
+    content: url("./static/icon-dark.png");
+  }
 }
