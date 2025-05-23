@@ -23,9 +23,9 @@ public: true
 
 → ![[meditation - study#^medst]]
 
-> [!info] Ellsworth Kelly, Color squares 2, 2011 #art 
-> ![[Ellsworth Kelly - Color squares 2 - 2011.png|400]]
- > Kelly is well-known for choosing the colors for his grid paintings by rolling dice – [Chance | Artsy](https://www.artsy.net/gene/chance)
+> [!tldr] Ellsworth Kelly, Color squares 2, 2011 
+>![[pub_Ellsworth Kelly - Color squares 2 - 2011.png]] 
+>Kelly is well-known for choosing the colors for his grid paintings by rolling dice – [Chance | Artsy](https://www.artsy.net/gene/chance) #art 
 
 In a PKM all information is *known*, still, by using the [[graph view]], tags, keywords and other forms of searches, one can  link previously unrelated notes together. This kind of linking results in more creative writing, and helps adjust thinking in new directions. [[insights or originality occurs at the juncture of two before unrelated concepts]]
 
@@ -35,7 +35,9 @@ For example, Obama on his extremely organized schedule:
 ![[Michael Lewis- Obama’s Way - Vanity Fair#^725602ff]]
 ## (Primary) Sources
 > [Cara M. Antonaccio, MSPH on Twitter: "thought to myself “can serendipity be quantified?” and today i have one more reason to love math 🥸❤️ \#PKM \#TfT \#Mathematics \#Systems https://t.co/ynYUNA7CTJ" / Twitter](https://twitter.com/caraantonaccio/status/1497646446564323339)
-> ![[serendipity_1646431356100_0.jpg|300]]
+> ![[pub_serendipity_1646431356100_0.jpg|300]]
+
+![[Roam whitepaper#^roamser01]]
 
 ![[Roam whitepaper#^roamser01]]
 
