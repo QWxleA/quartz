@@ -39,8 +39,6 @@ For example, Obama on his extremely organized schedule:
 
 ![[Roam whitepaper#^roamser01]]
 
-![[Roam whitepaper#^roamser01]]
-
 >“You’ll see I wear only gray or blue suits,” he said. “I’m trying to pare down decisions. I don’t want to make decisions about what I’m eating or wearing. Because I have too many other decisions to make.”
 >research that shows the simple act of making decisions degrades one’s ability to make further decisions. It’s why shopping is so exhausting. “You need to focus your decision-making energy. You need to routinize yourself. You can’t be going through the day distracted by trivia.”
 >You don’t have those moments of serendipity. You don’t bump into a friend in a restaurant you haven’t seen in years. The loss of anonymity and the loss of surprise is an unnatural state.
