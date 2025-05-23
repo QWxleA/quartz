@@ -4,7 +4,9 @@ updated: 2023-04-21T17:13:31+02:00
 tags:
   - fixme
   - concept
+  - glossary
 public: true
+description: 🧠
 ---
 >[!warning] wip
 
