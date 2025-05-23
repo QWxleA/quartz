@@ -27,6 +27,7 @@ Possible questions (variations on the same tune):
 Also: [[Questions help us to actively search instead of passively receive (information)]]
 
 ## Literature notes 
-![[2021-10-02#^79fac1]]
-![[2021-10-02#^5187a9]] [[Ed Nico]]
+![[Personal Knowledge Management – The Fortune Labs#^79fac1]]
+![[Personal Knowledge Management – The Fortune Labs#^5187a9]]
+[[Ed Nico]]
 
