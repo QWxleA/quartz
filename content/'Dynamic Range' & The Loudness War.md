@@ -7,8 +7,6 @@ date_saved: 2023-07-14
 tags:
   - music
   - clippings
-note:
-public: true
 ---
 
 >[!info] 'Dynamic Range' & The Loudness War
