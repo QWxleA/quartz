@@ -27,7 +27,6 @@ by [[Cory Doctorow]]
 
 [[blockchain for honesty]]
 
-
 ## Summary
 
 Cory Doctorow’s "Metacrap" is a critical essay that challenges the utopian vision of a perfectly organized, metadata-driven Internet. Doctorow argues that the dream of exhaustive, reliable metadata is fundamentally flawed due to human laziness, incompetence, bias, and conflicting interests. He systematically debunks the assumptions behind the "meta-utopia," highlighting the practical and philosophical problems with expecting users to create or agree on high-quality metadata. Instead, he suggests that implicit metadata—such as the network of links analyzed by Google—offers a more realistic and effective approach to information retrieval.

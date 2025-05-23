@@ -26,7 +26,7 @@ title: 🗄️ Keyword Index
 			- #flow [[For flow you need a relaxed state and a proven system]]
 	- #connection [[A good note connects your current understanding with the needs of your future work]]
 		- #folgezettel [[note sequences are the key to ZK, they create clusters that birth new ideas]]
-			- #combinations [[thoughts are not unique, but the combination (or linking) of thoughts are what makes it distinct]]
+			- #combinations [[thoughts are not unique, but the combination (or linking) of thoughts are what makes them distinct]]
 				- #randomness [[Luhmann improved using notecard  by adding an indexing system that made unexpected combinations possible]]
 		    - #overview [[the careful initial placement of a note is the first conversation it takes part in]]
 				- #branching [[atomic notes should be densely linked]]

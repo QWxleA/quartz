@@ -15,7 +15,7 @@ public: true
 ---
 [[Zettelkasten and Evergreen notes]] #component 
 
-A single [[atomic note|atomic note]] has limited use. It explains one single idea, but after that has been grasped then that’s the end of its use. Only by *combining* and *using* notes will they start to have exponentially more use. [[thoughts are not unique, but the combination (or linking) of thoughts are what makes it distinct]]
+A single [[atomic note|atomic note]] has limited use. It explains one single idea, but after that has been grasped then that’s the end of its use. Only by *combining* and *using* notes will they start to have exponentially more use. [[thoughts are not unique, but the combination (or linking) of thoughts are what makes them distinct]]
 
 When creating notes we should keep this *future use* in mind [[A good note connects your current understanding with the needs of your future work]] (eg stackable lego blocks).
 Old style zettelkasten notes are even shorter then **evergreen notes** ([[Classical zettelkasten was a balanced but outdated system]]. In a modern system, especially in one where we [[use a spaced-repetition plugin for writing]], notes will be more complete, and thus are already usefull by themselves. 

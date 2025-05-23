@@ -25,7 +25,7 @@ The combining of notes is the key to having a conversation with a ZK. how does t
 Not combining notes is like swallowing food without chewing and digesting. It will make you full but not benefit.
 
 [[True understanding is understanding the limits (borders) of a text, and then having the ability to look beyond]]
-[[thoughts are not unique, but the combination (or linking) of thoughts are what makes it distinct]]
+[[thoughts are not unique, but the combination (or linking) of thoughts are what makes them distinct]]
 [[the careful initial placement of a note is the first conversation it takes part in]]
 [[A zettelkasten becomes a speaking partner when it can answer questions]]
 ## Literature notes
