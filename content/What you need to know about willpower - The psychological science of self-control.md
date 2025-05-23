@@ -2,11 +2,11 @@
 publish: false
 id: 1f03c4b2-53a5-4806-ae14-b4f7031e890c
 title: "What you need to know about willpower: The psychological science of self-control"
-author: 
+author:
 date_saved: 2023-07-01
 date_published: 2012-12-01
 tags:
-  - type/article
+  - clippings
 note: Exceptionally well researched article. Looks like a list of all the top articles of the subject
 public: true
 ---
