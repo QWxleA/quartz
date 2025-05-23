@@ -1,5 +1,7 @@
 ---
 public: true
+tags:
+  - context
 ---
 
 > [!NOTE] This is a zettelkasten related note
