@@ -11,7 +11,7 @@ Unlike hierarchical filing systems, backlinks mirror how knowledge actually conn
 
 The key benefits:
 - [[serendipity|Serendipitous discovery]]: Patterns emerge you didn't consciously plan
-- **Compound knowledge**: Old insights resurface and combine with new ones
+- [[Compound knowledge]]: Old insights resurface and combine with new ones 
 - **Natural associations**: Ideas connect across different domains
 - **Active memory**: Prevents notes from becoming isolated and forgotten
 
