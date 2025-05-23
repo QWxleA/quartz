@@ -1,7 +1,7 @@
 ---
 title: 🌱 consistent naming and coloring taxonomies lowers mental overhead
 date: 2023-04-14
-aliases: 
+aliases:
 tags:
   - review
 status: growing
