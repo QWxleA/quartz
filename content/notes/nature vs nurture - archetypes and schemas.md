@@ -40,9 +40,15 @@ This distinction helps clarify why archetypes are often seen as the "deep struct
 
 ## Sources
 [^1]: The image schema and innate archetypes: theoretical and clinical ... https://pubmed.ncbi.nlm.nih.gov/26785413/
+
 [^2]: Archetype - Wikipedia https://en.wikipedia.org/wiki/Archetype
+
 [^3]: What Is Jungian Psychology? Structural Learning https://www.structural-learning.com/post/jungian-psychology
+
 [^4]: [PDF] Development of a Reconceptualization of Archetype Theory https://iaap.org/wp-content/uploads/2022/04/Report-Archetype-Theory-Roesler-1.pdf
+
 [^5]: [PDF] INNATE AND EMERGENT: JUNG, YOGA AND THE ARCHETYPE ... https://philarchive.org/archive/WHIIAE-2
+
 [^6]: [PDF] Leaders and Heroes: Modern Day Archetypes https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1048&context=lux
+
 [^7]: [PDF] The Archetypes of the Collective Unconscious https://www.jungiananalysts.org.uk/wp-content/uploads/2018/07/C.-G.-Jung-Collected-Works-Volume-9i_-The-Archetypes-of-the-Collective-Unconscious.pdf

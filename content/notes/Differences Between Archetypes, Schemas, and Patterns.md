@@ -16,7 +16,7 @@ Part of: [[people as patter matching machines]]
 
 ### Schemas
 
-- *Definition*: Schemas are ==mental frameworks or structures that organize and interpret information==. In psychology, they include mental models, social roles, scripts, and stereotypes, helping individuals process and categorize experiences[^4][^5].
+- *Definition*: [[schema|Schemas]] are ==mental frameworks or structures that organize and interpret information==. In psychology, they include mental models, social roles, scripts, and stereotypes, helping individuals process and categorize experiences[^4][^5].
 - *Usage*: In design and information systems, schemas are used to categorize and structure knowledge, facilitating understanding and decision-making[^5].
 - *Key Point*: Schemas are flexible, context-dependent cognitive structures that help us make sense of the world by organizing information into patterns.
 
@@ -48,10 +48,17 @@ While archetypes and schemas can sometimes overlap (as both can be innate and st
 
 ## Sources
 [^1]: Jungian archetypes - Wikipedia https://en.wikipedia.org/wiki/Jungian_archetypes
+
 [^2]: Schema Therapy and Archetypes by iman najafi on Prezi https://prezi.com/p/lvwn3knoq_g5/schema-therapy-and-archetypes/
+
 [^3]: Jung vs Schema Therapy : r/Jung - Reddit https://www.reddit.com/r/Jung/comments/1hf5r50/jung_vs_schema_therapy/
+
 [^4]: Schema (psychology) - Wikipedia https://en.wikipedia.org/wiki/Schema_(psychology)
+
 [^5]: Designing design: Types and schemas - Ruth Stalker-Firth https://www.ruthstalkerfirth.com/blog/2016/10/03/designing-design-types-and-schemas/
+
 [^6]: Archetype Technology Overview - openEHR Specifications https://specifications.openehr.org/releases/AM/development/Overview.html
+
 [^7]: Archetype Technology Overview - openEHR Specifications https://specifications.openehr.org/releases/AM/Release-2.2.0/Overview.html
+
 [^8]: What Is Jungian Psychology? Structural Learning https://www.structural-learning.com/post/jungian-psychology

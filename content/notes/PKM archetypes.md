@@ -3,6 +3,7 @@ tags:
   - psychology
   - concept
 public: true
+draft: true
 ---
 Part of: [[people as patter matching machines]]
 
