@@ -3,6 +3,8 @@ tags:
   - psychology
   - concept
 public: true
+cssclasses:
+  - ai
 ---
 Part of: [[people as patter matching machines]]
 

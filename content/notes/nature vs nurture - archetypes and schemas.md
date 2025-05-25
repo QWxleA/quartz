@@ -1,9 +1,15 @@
 ---
 public: true
+cssclasses:
+  - ai
+tags:
+  - psychology
 ---
 Part of: [[people as patter matching machines]]
 
-Distinguishing an Archetype's Innate Nature from a Schema's Learned Structure, nature vs nurture.
+Distinguishing an Archetype's Innate Nature from a Schema's Learned Structure, Nature vs Nurture.
+
+Also see: [[examples of archetypes and schemas]]
 
 **Archetypes** and **schemas** are both foundational concepts in psychology, but they differ significantly in their origins and functions.
 
@@ -37,6 +43,8 @@ Distinguishing an Archetype's Innate Nature from a Schema's Learned Structure, n
 - **Schemas** are *learned*, flexible structures developed through individual and cultural experience, helping people categorize and interpret their world[^1][^6].
 
 This distinction helps clarify why archetypes are often seen as the "deep structure" of the psyche, while schemas are the "surface structure" shaped by life experience.
+
+
 
 ## Sources
 [^1]: The image schema and innate archetypes: theoretical and clinical ... https://pubmed.ncbi.nlm.nih.gov/26785413/
