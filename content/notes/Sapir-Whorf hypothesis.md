@@ -21,3 +21,5 @@ See also: [[Sapir-Whorf hypothesis (Linguistic Relativity Hypothesis) - Simply P
 ![[How to Think Like a Roman Emperor - Donald J Robertson#^whorff]] 
 ## Fleeting notes 
 This is a phenomenon I noticed clearly in Sweden with SashaM who spoke Finnish, English and Italian, and his personality changed depending on the language he spoke. Because he was a very expressive person, it was very obvious
+
+[[basic Sapir-Whorff research]]

@@ -27,6 +27,8 @@ A gardening approach to note-taking cultivates the **habit to improve and tend**
 - anagora.org](https://anagora.org/index) – wiki like
 - [Welcome! - Nikola's Digital Garden](https://notes.nikolamilekic.com/Welcome!) – an [[Obsidian]] garden
 - [Table of contents | Meaningness](https://meaningness.com/) – A book in-progress as a growing group of notes
+- This one has fun icons: [Start here](https://www.paologabriel.com/swamp/start-here/)
+- Has good writing advice: [Advice for writers](https://garden.oxus.net/education/advice-for-writers/) #writing
 ### Software for gardens
 - [Welcome to Retype - Generate, publish, and share documentation](https://retype.com/)
 - [[Roam Research]] 
