@@ -15,6 +15,7 @@ Note-taking and zettelkasten navel-gazing. Also see [[Exploring Andy's notes]] f
 	- [[Use daily notes to close open loops and keep a journal]]
 - [[Notes need to be atomic because all external context is lost]]
 	- [[notes are simply components, stripped of external context, collected for future use]]
+- [[having a timestamp in a filename of a note is over-engineering]]
 
 ### Free structure organization 
 - [[There is freedom in letting go of assumptions and limits. These less traveled paths will be more fulfilling and adventurous]]
