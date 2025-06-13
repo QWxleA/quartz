@@ -9,7 +9,7 @@ tags:
 status: seedling
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 >“So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers.” — Jorge Luis Borges
 
@@ -20,7 +20,7 @@ A gardening approach to note-taking cultivates the **habit to improve and tend**
 ### Interesting Gardens
 - [Essays · Gwern.net](https://gwern.net/) – extremely well-made garden. Best use of meta-data I’ve seen
 - [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) – especially like the use of footnotes
-- [About these notes](https://notes.andymatuschak.org/About_these_notes) – probably the most famous one, at this moment, see [[Exploring Andy's notes]]
+- [About these notes](https://notes.andymatuschak.org/About_these_notes) – probably the most famous one, at this moment, see [[Exploring Andy's notes MOC]]
 - [My workflow in writing and maintaining this wiki | Everything I know](https://wiki.nikiv.dev/other/wiki-workflow#similar-wikis-i-liked) – a wiki-like garden, stored on Github
 - [creating digital gardens — Are.na](https://www.are.na/annika-hansteen-izora/creating-digital-gardens) – very interesting concept of blocks, linked together
 - [Welcome - Docs](https://docs.thottingal.in/) – build on Gitbook

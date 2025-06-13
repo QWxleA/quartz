@@ -13,7 +13,7 @@ sr-ease: 306
 permalink: information-knowledge-must-be-processed
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]  #understanding →  #knowledge 
+[[Zettelkasten and Evergreen MOC]]  #understanding →  #knowledge 
 
 Without actually engaging with content, understanding it, and connecting it to existing knowledge, it serves little purpose. Collecting it might feel good, but is useless, and might even be harmful ([[Fear of missing out]] and [[collectors fallacy]]).
 

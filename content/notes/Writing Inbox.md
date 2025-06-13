@@ -9,11 +9,11 @@ created: 2023-04-15T22:04:20+02:00
 updated: 2023-04-16T15:37:43+02:00
 public: true
 ---
-[[Exploring Andy's notes]] 
+[[Exploring Andy's notes MOC]] 
 
 The [[daily note| 💡daily note]] is a perfect place to dump anything that comes to mind  [[Use daily notes to close open loops and keep a journal]]. [[interstitial journal]] combined with some search queries on a dedicated page make it easy to keep track of possible writing ideas.
 
-This is a combination of a journal, [[Notes/GTD]], and [[Zettelkasten and Evergreen notes]]. It creates a workflow for scratch notes. They get written on the fly, but periodically reviewed. The ones that are worthwile get promoted to [[evergreen workflow|undeveloped, or maybe even seedling]]. The rest gets ticked of the list (which in itself feels great).
+This is a combination of a journal, [[Notes/GTD]], and [[Zettelkasten and Evergreen MOC]]. It creates a workflow for scratch notes. They get written on the fly, but periodically reviewed. The ones that are worthwile get promoted to [[evergreen workflow|undeveloped, or maybe even seedling]]. The rest gets ticked of the list (which in itself feels great).
 
 ## Literature notes
 > 1.  a quick way to capture transient notes which clearly isolates them from evergreen notes; and

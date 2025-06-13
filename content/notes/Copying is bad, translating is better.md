@@ -14,7 +14,7 @@ sr-ease: 334
 permalink: copying-bad-translating-better
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 ![[pub_translation.png|200]]
 

@@ -13,7 +13,7 @@ sr-ease: 333
 permalink: declarative-titles-test-the-validity-of-the-notes-claim
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #understanding → #specific → #naming 
+[[Zettelkasten and Evergreen MOC]] #understanding → #specific → #naming 
 
 A note should either be a statement of fact (from a personal viewpoint), or something believed to be true. (It should should also be as *small* as possible, and add only as much context as is needed to understand the note. This will make linking easier, [[there is understanding in the combination of ideas]] & [[atomic notes should be densely linked]](.
 

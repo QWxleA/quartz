@@ -13,7 +13,7 @@ sr-ease: 347
 permalink: dont-quote
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 > Quotes are not notes. Notes are what you have to say about the quotes – [usfmk3@r/Zettelkasten](https://www.reddit.com/r/Zettelkasten/comments/usfmk3/quotes_are_not_notes_creating_a_zettelkasten_of/)
 

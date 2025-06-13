@@ -12,7 +12,7 @@ sr-interval: 117
 sr-ease: 290
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #connection
+[[Zettelkasten and Evergreen MOC]] #connection
 
 When finished, an atomic note is good as it is ([[learn to let go]]). But it is not the end of the story. It is finished now but will be a building block for something else tomorrow ([[notes are simply components, stripped of external context, collected for future use]]). 
 

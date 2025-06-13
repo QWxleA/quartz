@@ -13,7 +13,7 @@ sr-ease: 332
 permalink: thoughts-are-not-unique
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #connection → #folgezettel → #combinations 
+[[Zettelkasten and Evergreen MOC]] #connection → #folgezettel → #combinations 
 
 People are more similar then different. Most people are also not that smart. How to create our own unique thoughts and insights? Combining non-unique input, with our personal memories creates a relatively unique perspective. Combine this with a multitude of previously studied material should open up the possibility of unique ideas.
 

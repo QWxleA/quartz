@@ -13,7 +13,7 @@ sr-interval: 211
 sr-ease: 312
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]  #engagement  #dopamine
+[[Zettelkasten and Evergreen MOC]]  #engagement  #dopamine
 
 Quoting or copying is passive, more about personal gratification then about note-taking. Use your own words, think about the contents of a note.
 

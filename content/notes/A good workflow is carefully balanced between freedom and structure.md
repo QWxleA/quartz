@@ -13,7 +13,7 @@ sr-ease: 313
 permalink: good-workflow-is-carefully-balanced-between-freedom-and-structure
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #structure
+[[Zettelkasten and Evergreen MOC]] #structure
 
 >Structure should enable not hinder – [@theresiatansil](https://twitter.com/theresiatanzil/status/1530753341441028101)
 >[[Structure should enable not hinder|local copy]]

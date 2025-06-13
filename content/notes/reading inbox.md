@@ -20,7 +20,7 @@ Once a day empty the `1111` folder, use [[GTD]] logic, everything has its place 
 
 ----
 ## Old notes
-[[Exploring Andy's notes]] #workflow
+[[Exploring Andy's notes MOC]] #workflow
 
 ## Andy -- A reading inbox to capture possibly-useful references
 

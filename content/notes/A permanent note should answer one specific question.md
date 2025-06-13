@@ -12,7 +12,7 @@ sr-ease: 327
 cards-deck: Default
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]  #purpose → #component → #specific  
+[[Zettelkasten and Evergreen MOC]]  #purpose → #component → #specific  
 
 > [!tldr] Why should an atomic note answer one question?
 > A permanent note should be **as small as possible**. If it answers two questions, then it should be divided into *two* notes. [[Notes need to be atomic because all external context is lost]]

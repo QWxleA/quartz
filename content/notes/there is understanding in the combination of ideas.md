@@ -12,7 +12,7 @@ sr-interval: 99
 sr-ease: 290
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #understanding  
+[[Zettelkasten and Evergreen MOC]] #understanding  
 
 > [!warning] This is (mostly) a stub
 > Rewrite, key ideas are understanding, what does it mean to understand something?

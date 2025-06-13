@@ -13,7 +13,7 @@ sr-interval: 171
 sr-ease: 328
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 Don't try to put everything in boxes. Just create atomic notes that link to other places. Find them again by following linked notes. [[there is understanding in the combination of ideas]]
 

@@ -10,7 +10,7 @@ created: 2023-04-15T22:28:18+02:00
 updated: 2023-04-20T06:44:39+02:00
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] [[Exploring Andy's notes]] #trust
+[[Zettelkasten and Evergreen MOC]] [[Exploring Andy's notes MOC]] #trust
 
 Think about ==Context==: notes in a PKM (**Personal** Knowledge Management)
 The ==goal== of the note is crystallizing personal understanding/knowledge

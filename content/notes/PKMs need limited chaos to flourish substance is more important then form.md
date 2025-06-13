@@ -13,7 +13,7 @@ sr-ease: 294
 permalink: pkms-need-chaos-substance-over-form
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #engagement →  #creativity →  #order
+[[Zettelkasten and Evergreen MOC]] #engagement →  #creativity →  #order
 
 With the enormous amount of great tools that exist it might be tempting to *redo* your notes, when improving something. The smallest example is a better template, should you redo all your notes to reflect that new (so much better) layout? *No*. Seeing older versions, itterations of your notes can help to see things in a historical light. Just update when needed.
 

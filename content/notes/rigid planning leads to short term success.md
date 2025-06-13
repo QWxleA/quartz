@@ -11,7 +11,7 @@ sr-interval: 113
 sr-ease: 270
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]  #planning → #future → #shortcut
+[[Zettelkasten and Evergreen MOC]]  #planning → #future → #shortcut
 
 Structure lowers mental overhead [[A good workflow is carefully balanced between freedom and structure]], but rigidity makes work boring. It turns knowledge work into just *work*, instead of exciting  exploration.
 

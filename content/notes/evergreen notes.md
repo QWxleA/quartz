@@ -8,7 +8,7 @@ created: 2023-04-14T22:24:16+02:00
 updated: 2023-04-21T20:42:21+02:00
 public: true
 ---
-[[Exploring Andy's notes]] 
+[[Exploring Andy's notes MOC]] 
 
 Simply put, evergreen notes are like _zettels_ from a [[zettelkasten]]. Evergreen notes should be:
 

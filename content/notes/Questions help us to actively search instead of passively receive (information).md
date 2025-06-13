@@ -13,7 +13,7 @@ sr-ease: 337
 cards-deck: Default
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]  #engagement → #inquisitive → #selection 
+[[Zettelkasten and Evergreen MOC]]  #engagement → #inquisitive → #selection 
 
 When reading, we should be specific ([[if something isn’t worth making a note about then don’t read it]]), read with a **purpose**: to add something from the material to our PKM. Questions open up avenues of inquiry, what is missing, what can be improved. If you read a text, looking for answers you’ll be actively engaged with the material, instead of just *enjoying the experience*.
 

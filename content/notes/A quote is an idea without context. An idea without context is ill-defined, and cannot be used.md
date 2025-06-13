@@ -11,7 +11,7 @@ sr-ease: 356
 permalink: quote-is-an-idea-without-context
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #context
+[[Zettelkasten and Evergreen MOC]] #context
 
 >[!note] This is not about quotes, as in famous quotes
 >Quotes can be used just like illustrations. They are fun, might make things a bit more *clear* but do they not *prove* anything.

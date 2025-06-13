@@ -14,7 +14,7 @@ sr-ease: 330
 permalink: only-actively-engaged-repeated-information-is-remembered
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #remembering  #spaced_repetition  
+[[Zettelkasten and Evergreen MOC]] #remembering  #spaced_repetition  
 
 [[Hermann Ebbinghaus]]‘ forgetting curve shows that we all forget everything incredibly fast. Within 20 minutes we forget 40% of something we *try to remember*, in studies students remembered less then 1% of the material because of bad study techniques. With spaced repetition these numbers went up to remembering over 80%. 
 

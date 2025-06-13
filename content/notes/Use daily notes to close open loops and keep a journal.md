@@ -9,7 +9,7 @@ tags:
 status: growing
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 The habit of starting _all_ writing in the [[daily note]] reduces friction and stress
 	- Key understanding of a good (daily) [[pkm]]

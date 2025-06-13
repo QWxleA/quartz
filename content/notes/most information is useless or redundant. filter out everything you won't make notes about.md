@@ -14,7 +14,7 @@ sr-ease: 310
 permalink: most-information-is-useless-or-redundant-filter-out-everything-you-wont-make-notes-about
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] meets [[⏱️Being productive and healthy]]
+[[Zettelkasten and Evergreen MOC]] meets [[⏱️Being productive and healthy]]
 
 Most information we receive daily is of no immediate use, and won't make us a better person. It is more #dopamine then personal growth. Filtering out such information will free up time & resources for better study and mental health. This does take #self_disciple, which is hard and in limited supply.
 

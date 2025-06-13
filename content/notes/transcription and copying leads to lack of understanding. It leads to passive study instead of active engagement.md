@@ -12,7 +12,7 @@ sr-interval: 133
 sr-ease: 292
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 Transcription and copying leads to lack of understanding. It leads to passive study instead of active engagement ([[Active reading is the foundation of continued self-improvement]])
 

@@ -13,7 +13,7 @@ sr-ease: 290
 permalink: studying-and-highlighting-is-not-to-cover-material-it-is-to-add-notes-to-our-zettelkasten
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 When we read we should bring to mind note related to what we are currently reading. Don't read just anything, it will make it hard to add to you slip-box.
 

@@ -9,7 +9,7 @@ created: 2023-04-19T20:49:00+02:00
 updated: 2023-04-19T20:49:00+02:00
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 >[!warning] Work in progress
 

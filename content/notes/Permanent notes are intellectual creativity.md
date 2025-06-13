@@ -15,7 +15,7 @@ permalink: permanent-notes-are-intellectual-creativity
 description: A good note is a combination of *Rephrasing*, *Connecting*, and *Building on* ideas
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #creativity 
+[[Zettelkasten and Evergreen MOC]] #creativity 
 
 Copying and pasting other peoples writing creates nothing new, nor is highlighting articles a form of building anything. [[Studying and highlighting is not to cover material, it is to add notes to our zettelkasten. For this we should always keep in mind, how does what I read fit with my other notes?]] These actions can be the precursor to writing permanent notes, though. When we collect information and form our own opinion about a subject in reaction to something we studied, we can say that for us: we created something *new*.
 

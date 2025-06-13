@@ -13,7 +13,7 @@ sr-interval: 186
 sr-ease: 310
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 **Overview notes** are also called **Map of Contents**. Notes that give an overview of a specific topic, containing up-to some 25 notes.
 

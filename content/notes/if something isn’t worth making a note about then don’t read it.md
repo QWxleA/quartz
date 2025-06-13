@@ -7,7 +7,7 @@ tags:
 status: undeveloped
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #filtering 
+[[Zettelkasten and Evergreen MOC]] #filtering 
 
 >[!warning] Work in progress
 

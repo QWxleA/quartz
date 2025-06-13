@@ -12,7 +12,7 @@ sr-interval: 305
 sr-ease: 330
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #productivity  →  #consistency 
+[[Zettelkasten and Evergreen MOC]] #productivity  →  #consistency 
 
 Colors, placement on the page and colors can convey ideas, or meta-data about a note. [[Consistency]] is important for clarity.
 

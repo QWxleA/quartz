@@ -11,7 +11,7 @@ sr-interval: 262
 sr-ease: 330
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #interconnection  →  #serendipity  → #improvement  →  #convenience
+[[Zettelkasten and Evergreen MOC]] #interconnection  →  #serendipity  → #improvement  →  #convenience
 
 Sometimes, when writing, we run into a (side-)thought is to big to (completely) fit in the current note, but it does not have it's own page (yet). We can just create a link, and carry one. Continue working on the current note. In time we'll run into the stub.
 

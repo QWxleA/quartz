@@ -12,7 +12,7 @@ sr-interval: 73
 sr-ease: 329
 public: true
 ---
-[[Exploring Andy's notes]]  #spaced_repetition 
+[[Exploring Andy's notes MOC]]  #spaced_repetition 
 
 [[Andy Matuschak]] has quite elaborate notes on spaced repetition, but his idea to **use it for productive writing** is especially useful. What people often do is creating a sort of **inbox** of ideas. These are *fleeting notes* that might become evergreen notes. The downside of continuously adding to an inbox, is that they usually end up being a large pile of junk, and it becomes scary to even look at them.
 

@@ -14,7 +14,7 @@ sr-interval: 64
 sr-ease: 310
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 > [!note] Definition
 > Bi-directional links provides a path back to the page where you inserted the original link

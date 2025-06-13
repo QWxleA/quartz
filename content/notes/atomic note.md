@@ -15,7 +15,7 @@ sr-interval: 1588
 sr-ease: 332
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #workflow
+[[Zettelkasten and Evergreen MOC]] #workflow
 
 Short self containing note about **one idea** or concept
 - Good (evergreen) notes are atomic, meaning they are about one *specific* thing, but still try to be as *complete* as possible
@@ -42,6 +42,8 @@ When creating an atomic note, one has to keep in mind that a note has more then 
 >
 > Atomicity fosters re-use which in turn multiplies the amount of connections in the network of _Zettels._
 > – [Create Zettel from Reading Notes According to the Principle of Atomicity • Zettelkasten Method](https://zettelkasten.de/posts/create-zettel-from-reading-notes/)
+
+- [perm vs evergreen - Bob Doto](https://bobdoto.computer/perm-vs-evergreen) - excellent discussion on the rather slight difference between permanent and evergreen notes.
 
 ## See also
 [[Declarative titles test the validity of the note's claim]]

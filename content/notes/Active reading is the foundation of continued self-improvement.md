@@ -12,7 +12,7 @@ sr-interval: 390
 sr-ease: 330
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #opinion
+[[Zettelkasten and Evergreen MOC]] #opinion
 
 Reading exposes one to smarter or more knowledgeable people. Thinking about what you read might make you wiser. By doing this everyday you will slowly improve yourself. [[For notes to be useful, actively engage with them]]
 

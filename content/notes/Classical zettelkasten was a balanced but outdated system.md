@@ -13,7 +13,7 @@ sr-interval: 307
 sr-ease: 339
 publish: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 
 >[!info] Luhmann’s zettelkasten

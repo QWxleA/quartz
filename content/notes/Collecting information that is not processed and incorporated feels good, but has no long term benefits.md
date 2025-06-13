@@ -16,7 +16,7 @@ sr-ease: 334
 permalink: collecting-feels-good-but-has-no-long-term-benefits
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #understanding  → #vision  → #benefit
+[[Zettelkasten and Evergreen MOC]] #understanding  → #vision  → #benefit
 
 > “there’s a lot someone doesn’t know anything about **precisely because she photocopied** a text; she has given herself in to the illusion of having read the text already.” — [[How to Write a Thesis - Umberto Eco]]
 

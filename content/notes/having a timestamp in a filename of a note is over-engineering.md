@@ -9,7 +9,7 @@ status: "seedling"
 permalink: having-a-date-in-a-filename-of-a-note-is-over-engineering
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 Using descriptive titles should guarantee uniqueness. If you have two identical titles they are either not descriptive enough, or should be combined.
 

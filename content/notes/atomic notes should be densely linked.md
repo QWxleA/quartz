@@ -12,7 +12,7 @@ sr-interval: 165
 sr-ease: 310
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #connection → #overview → #branching 
+[[Zettelkasten and Evergreen MOC]] #connection → #overview → #branching 
 
  [[Evergreen notes should be atomic - clipping]], which means they are per definition small. To make them more useful we should link them to other notes  ([[there is understanding in the combination of ideas]]).
 

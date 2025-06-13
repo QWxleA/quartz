@@ -13,7 +13,7 @@ sr-interval: 171
 sr-ease: 314
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 > To be able to play with ideas, we first have to liberate them from their original context by means of abstraction and respecification. –Sönke Ahrens
 

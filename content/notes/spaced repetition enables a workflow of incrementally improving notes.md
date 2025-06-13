@@ -13,7 +13,7 @@ sr-interval: 337
 sr-ease: 337
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]  #polishing
+[[Zettelkasten and Evergreen MOC]]  #polishing
 
 Using a plugin for **spaced repetition** can, besides the obvious use of training ones memory, also be used as a review system. The plugin will add and update meta-data that keeps track when a note should be visited next. This gives **peace of mind** that even if a note isn't perfect it will be visited later anyway [[learn to let go]].
 

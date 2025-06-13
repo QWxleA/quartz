@@ -14,7 +14,7 @@ public: true
 ---
 > [!warning] Study is not very interesting, needs some other reference / ideas
 
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 Copy Paste is too easy. Especially worse (or tired?) students are inclined to just copy paste information, which leads to shallow reading.
 

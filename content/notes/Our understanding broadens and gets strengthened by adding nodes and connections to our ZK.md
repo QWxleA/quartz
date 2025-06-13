@@ -12,7 +12,7 @@ sr-interval: 202
 sr-ease: 310
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #expansion 
+[[Zettelkasten and Evergreen MOC]] #expansion 
 
 An idea gets written down in an [[atomic note]], with one specific context, the context of that note and understanding. When linking a note, we broaden the context by adding the two notes together. Especially of the other notes is from a (slightly) unrelated field, our understanding and application of our first note grows.
 

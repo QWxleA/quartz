@@ -8,7 +8,7 @@ created: 2023-04-15T22:15:36+02:00
 updated: 2023-04-16T15:37:43+02:00
 public: true
 ---
-[[Exploring Andy's notes]] 
+[[Exploring Andy's notes MOC]] 
 >[!warning] Work in progress
 
 

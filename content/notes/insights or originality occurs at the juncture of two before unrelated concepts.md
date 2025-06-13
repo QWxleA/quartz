@@ -11,7 +11,7 @@ sr-interval: 261
 sr-ease: 330
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #serendipity 
+[[Zettelkasten and Evergreen MOC]] #serendipity 
 
 Optimising for serendipity (from [[roam research – a note taking tool for networked thought]]), is like creating luck. One does not get more lucky, but creates more *opportunities* to get lucky.
 

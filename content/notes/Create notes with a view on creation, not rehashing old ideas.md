@@ -16,7 +16,7 @@ sr-interval: 412
 sr-ease: 330
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #engagement → #emotion
+[[Zettelkasten and Evergreen MOC]] #engagement → #emotion
 
 When creating literature notes, try to take note of the **emotion** specific passages called up. If something was surprising, make a note of that. Over time the surprise will wane, but the emotion can be used in the future when the note is used as *source for an external work.*
 

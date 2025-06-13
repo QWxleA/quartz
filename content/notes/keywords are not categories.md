@@ -8,7 +8,7 @@ tags:
 status: undeveloped
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 > [!warning] This is (mostly) a stub
 
 

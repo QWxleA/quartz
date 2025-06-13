@@ -14,7 +14,7 @@ sr-interval: 312
 sr-ease: 312
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #randomness 
+[[Zettelkasten and Evergreen MOC]] #randomness 
 
 >[!info] This note has #anki cards embedded in it
 

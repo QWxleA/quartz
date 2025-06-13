@@ -14,7 +14,7 @@ sr-interval: 117
 sr-ease: 325
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #index
+[[Zettelkasten and Evergreen MOC]] #index
 
 When we want to enter our ZK, we look down our index, going from keyword to keyword. If something catches our attention we follow the keywords note, which usually lead to [[overview notes are an entry into a topic]]
 

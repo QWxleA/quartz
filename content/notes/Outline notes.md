@@ -13,7 +13,7 @@ public: true
 description: outline vs moc ??? 🧠
 ---
 
-[[Exploring Andy's notes]] 
+[[Exploring Andy's notes MOC]] 
 
 ## Andy
 

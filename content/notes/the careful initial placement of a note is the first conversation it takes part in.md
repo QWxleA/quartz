@@ -12,7 +12,7 @@ sr-interval: 373
 sr-ease: 330
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #connection  →  #folgezettel  →  #overview
+[[Zettelkasten and Evergreen MOC]] #connection  →  #folgezettel  →  #overview
 
 Careful placement in [[Keyword Index]] gives *enough friction* to force one to slow down and *carefully think*. Where does this go in the grand scheme of things? This results in better connections.
 

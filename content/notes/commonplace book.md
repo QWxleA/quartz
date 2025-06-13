@@ -10,7 +10,7 @@ tags:
   - notetaking
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]
+[[Zettelkasten and Evergreen MOC]]
 
 > [!warning] This is (mostly) a stub
 

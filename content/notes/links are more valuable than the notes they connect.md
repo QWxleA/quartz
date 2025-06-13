@@ -11,7 +11,7 @@ sr-interval: 118
 sr-ease: 324
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #interconnection #productivity 
+[[Zettelkasten and Evergreen MOC]] #interconnection #productivity 
 
 ---
 What makes links more valuable than the notes they link together? #flashcard 

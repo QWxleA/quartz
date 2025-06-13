@@ -13,7 +13,7 @@ sr-interval: 110
 sr-ease: 312
 public: true
 ---
-[[Zettelkasten and Evergreen notes]]  #feedback_loop → #motivation / → #dopamine → #happiness 
+[[Zettelkasten and Evergreen MOC]]  #feedback_loop → #motivation / → #dopamine → #happiness 
 
 Seek an internal positive feedback loop for ongoing motivation. This will encourage skill improvement and leads to a more rewarding work experience
 

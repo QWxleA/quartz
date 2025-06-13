@@ -15,7 +15,9 @@ review-frequency: low
 reviewed: 2023-05-16
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+>[!warning] Work in progress
+
+[[Zettelkasten and Evergreen MOC]] 
 
 Concepts, or abstracts ideas are more wikipedia then zettelkasten. But, when studying a subject, especially in the beginning, having those kind of notes in your PKM can be helpful. Make sure to not just import definitions from wikipedia (with the [[obsidian wikipedia plugin]]), but rewrite the idea in a way that is clear to you [[Copying is bad, translating is better|translating is better]] than copying / transcribing.
 
@@ -36,5 +38,4 @@ A Noun Note is an evergreen note who's title is simply the name of the concept. 
 >Comments about how a fact shows up in your daily life, how a fact is regarded in public discourse, how a fact is disputed, all make for valuable content. 
 > – [[Literature/Omnivore/2023-05-06/How to Handle Facts in Your Zettelkasten - Writing by Bob Doto|How to Handle Facts in Your Zettelkasten - Writing by Bob Doto]] [[Bob Doto]]
 ## See also
-- [[the different kind of notes in a pkm]]
 - [[list of concepts]]

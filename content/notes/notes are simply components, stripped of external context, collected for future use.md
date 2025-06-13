@@ -13,7 +13,7 @@ sr-interval: 1456
 sr-ease: 349
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] #component 
+[[Zettelkasten and Evergreen MOC]] #component 
 
 A single [[atomic note|atomic note]] has limited use. It explains one single idea, but after that has been grasped then that’s the end of its use. Only by *combining* and *using* notes will they start to have exponentially more use. [[thoughts are not unique, but the combination (or linking) of thoughts are what makes them distinct]]
 
@@ -37,7 +37,7 @@ A note is an information only in a web of other notes - [[the fabrication of ser
 
 Luhmann’s notes were sometimes *incredibly* terse:
 ![[English Translation of All Notes on Zettelkasten by Luhmann#^etnote01]]
-Compare this to [[Exploring Andy's notes]], these notes are complete worked out ideas.
+Compare this to [[Exploring Andy's notes MOC]], these notes are complete worked out ideas.
 ## Fleeting notes
 A note is an interesting, possibly unfinished idea, completely taken out of it's original context
 - NL's notes where written with a clear **goal** in mind: they were ==blocks== to be unitlized

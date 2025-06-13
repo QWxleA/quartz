@@ -15,7 +15,7 @@ sr-ease: 352
 permalink: learn-to-let-go
 public: true
 ---
-[[Zettelkasten and Evergreen notes]] 
+[[Zettelkasten and Evergreen MOC]] 
 
 Zettelkasten as a system is an over-arching system that can completely solve the problem of effective note taking. This will only work if done completely, and not struggling *against* the system, by trying to bring arbitrary order to it.
 
