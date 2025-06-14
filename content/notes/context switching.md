@@ -34,3 +34,6 @@ public: true
 - [[Dedicated Time Blocks]]: Protect focused work periods from interruption 
 - **Context Bridges**: Use transitional notes or rituals when switching is necessary
 - **Why It Matters**: Reducing context switching can improve productivity by 25-40% and significantly decrease mental fatigue.
+
+## Sources
+[[rubinstein2001]]

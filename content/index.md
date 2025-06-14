@@ -5,7 +5,7 @@ title: "🏡 | Index"
 > [!abstract] About
 > Hi! My online persona is Alex Qwxlea and these are my public notes. The fields that currently interest me:
 
-- Note taking [notetaking](tags/notetaking)
+- [[Zettelkasten and Evergreen MOC]], also [notetaking](tags/notetaking)
 - Sleep [sleep](/tags/sleep)
 - Music [jazz](/tags/jazz)
 
