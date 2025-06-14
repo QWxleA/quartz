@@ -18,8 +18,8 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "build": "npx quartz build --directory=/Users/qwxlea/Documents/ThirdTime/public",
-    "serve": "npx quartz build --serve --directory=/Users/qwxlea/Documents/ThirdTime/public"  
+    "build": "npx quartz build --directory=content",
+    "serve": "npx quartz build --serve --directory=content"  
   },
   "engines": {
     "npm": ">=10.9.2",
