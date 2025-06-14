@@ -1,3 +1,15 @@
+# Readme 😁
+
+Hi, this is the repo for the website https://qwxlea.org/. This was made with Quartz, and I kept the original readme below (which includes a link to get started yourself). 
+
+## Licensing changes
+- **Content:** The text content in the `content/` folder is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). 
+- **Everything else:** uses the MIT License for its components, since it was originally MIT license from https://quartz.jzhao.xyz/. 
+
+---
+Readme liberated from: https://github.com/fanteastick/quartz-test/blob/v4/README.md
+---
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming

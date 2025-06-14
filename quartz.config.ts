@@ -8,16 +8,33 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Bold studies",
+    pageTitleSuffix: "notes and 🌱 half-truths",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "qwxlea.org",
+    ignorePatterns: [
+      "Private", 
+      "Templates", 
+      ".DS_Store",
+      ".trash",
+      ".smart-env",
+      ".reference-map",
+      ".obsidianIpad",
+      ".obsidianPhone",
+      "Reference",
+      "Clippings",
+      "Notes",
+      "Inbox",
+      "1111",
+      "Assets2",
+      "Excalidraw",
+      "Literature",
+      "Journal"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -58,6 +75,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
+        // priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -71,9 +89,12 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      Plugin.RemoveDrafts(),
+      // Plugin.ExplicitPublish(), 
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -89,7 +110,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }

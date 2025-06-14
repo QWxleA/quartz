@@ -1,0 +1,13 @@
+---
+created: 2023-04-16T15:38:14+02:00
+updated: 2023-04-16T15:38:14+02:00
+public: true
+---
+>[!warning] Work in progress #sleep
+- [Lucid dream - Wikipedia](https://en.wikipedia.org/wiki/Lucid_dream#Prevalence_and_frequency)
+- [Lucid Dreaming: Awake in Your Sleep](https://web.archive.org/web/20070730195525/http://www.susanblackmore.co.uk/Articles/si91ld.html)
+- [Lucid Dreaming Frequently Asked Questions Answered by Lucidity Institute](https://web.archive.org/web/20190910121945/http://www.lucidity.com/LucidDreamingFAQ2.html#course)
+- [How To Remember Your Dreams](https://web.archive.org/web/20190821060557/http://www.lucidity.com/NL11.DreamRecall.html)
+	- ==Remembering your dreams== is the starting place for learning to have lucid dreams. If you don't recall your dreams, even if you do have a lucid dream, you won't remember it! And, in order to be able to recognize your dreams as dreams while they are happening, you have to be familiar with the way your own dreams work. Before it will be worth your time to work on lucid dream induction methods, you should be able to recall at least one dream every night.
+	- ==Getting plenty of sleep== is the first step to good dream recall. If you are rested it will be easier to focus on your goal of recalling dreams, and you won't mind so much taking the time during the night to record your dreams. Another benefit of getting plenty of sleep is that dream periods get longer and closer together as the night proceeds. The first dream of the night is the shortest, perhaps 10 minutes in length, while after 8 hours of sleep, dream periods can be 45 minutes to an hour long. We all dream every night, about one dream period every 90 minutes. People who say they never dream simply never remember their dreams. You may have more than one dream during a REM (dream) period, separated by short arousals that are most often forgotten. It is generally accepted among sleep researchers that dreams are not recalled unless the sleeper awakens directly from the dream, rather than after going on to other stages of sleep.
+	- It can be useful while you are developing your dream recall to ==keep a complete dream journal==. Keep the journal handy by your bed and record every dream you remember, no matter how fragmentary. Start by writing down all your dreams, not just the complete, coherent, or interesting ones--even if all you remember is a face or a room, write it down.
