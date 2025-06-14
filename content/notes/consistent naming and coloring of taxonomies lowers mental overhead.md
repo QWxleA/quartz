@@ -87,5 +87,5 @@ Consistent patterns transform difficult **recall tasks** ("What did I call that 
 - Reduces friction → easier to reach flow
 - Enables scalable, intuitive knowledge growth
 
-Bottom Line: **Consistency** turns your zettelkasten into a ==cognitive amplifier, not a mental chore.==
+Bottom Line: [[Consistency]] turns your zettelkasten into a ==cognitive amplifier, not a mental chore.==
 
