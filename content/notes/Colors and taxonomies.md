@@ -24,7 +24,7 @@ Highlighting, using colors (can) help to make it easier to remember, but also to
 > Would be nice to (re-)style tags
 
 This page is used to try to be more ==consistent== in my colors, highlights, etc:
-- [[consistent naming and coloring taxonomies lowers mental overhead]]
+- [[consistent naming and coloring of taxonomies lowers mental overhead]]
 - [[consistency]] helps with [[flow]]
 
 ### Highlighting text

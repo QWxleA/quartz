@@ -59,7 +59,7 @@ title: 🗄️ Keyword Index
 		- #ignorance [[intellectual laziness is deceiving]]
 - #productivity
 	- #self_deception [[it is easy to think we are productive, but it is hard to measure oneself]]
-	- #consistency [[consistent naming and coloring taxonomies lowers mental overhead]]
+	- #consistency [[consistent naming and coloring of taxonomies lowers mental overhead]]
 		- #routine [[well practiced-simple steps gently force towards results]]
 		- #journaling [[Journaling is healthy for mind and body]]
 	- #planning [[The present and future can coexist if tasks are planned accordingly]]
@@ -67,7 +67,7 @@ title: 🗄️ Keyword Index
 		- #structure [[A good workflow is carefully balanced between freedom and structure]]
 			- #process [[Defining satisfactory workflows reduce stress and increase productivity]]
 			- #golden_ratio [[Elegant shapes and beauty promote understanding]]
-			- #consistency [[consistent naming and coloring taxonomies lowers mental overhead]]
+			- #consistency [[consistent naming and coloring of taxonomies lowers mental overhead]]
 		- #procrastination [[bad systems induce bad working habits]]
 		- #future [[Key applications should be chosen with the long view in mind]]
 			- #shortcut [[rigid planning leads to short term success]]
