@@ -27,7 +27,7 @@ These two books represent fundamentally different philosophies about the researc
 ---
 title: 🔄 Sequential Studying Approach
 ---
-graph TD
+flowchart TD
 %% Sequential Approach (Top)
 subgraph SEQ [ ]
 Start["Research question"]
