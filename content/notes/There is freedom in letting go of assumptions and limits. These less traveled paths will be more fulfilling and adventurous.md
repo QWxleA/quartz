@@ -1,8 +1,7 @@
 ---
-title: 🌱 there is freedom in letting go of assumptions and limits. These less traveled paths will be more fulfilling and adventurous
+title:
 date: 2023-04-15
 aliases:
-  - 🌱 there is freedom in letting go of assumptions and limits. These less traveled paths will be more fulfilling and adventurous
 tags:
   - review
 status: seedling

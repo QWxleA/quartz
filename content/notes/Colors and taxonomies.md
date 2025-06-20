@@ -106,6 +106,10 @@ The new [[1 concept template]] uses callouts for the main point of an [[evergree
 See [[Obsidian cheatsheet]]
 
 ## Outside examples
+Writing in books:
+![[Screenshot 2025-06-19 at 07.17.32.png]]
+[[Bob Doto]] on #marginalia [yomu link](yomu://content/annotation/28C87668-540E-4D05-B1E2-BAB95A41EBC0)
+
 [Desktop-Cube/README.md at main · Schneegans/Desktop-Cube · GitHub](https://github.com/Schneegans/Desktop-Cube/blob/main/README.md) - [[emoji] in github issues
 
 ‘‘‘

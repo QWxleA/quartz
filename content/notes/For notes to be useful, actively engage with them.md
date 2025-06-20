@@ -25,7 +25,7 @@ The [[generation effect]] is at play here; by writing our own notes, instead of 
 
 [[A quote is an idea without context. An idea without context is ill-defined, and cannot be used]]
 [[highlighting is a dangerous technique to separate important points from others. It is too easy to ignore main points]]
-[[💡hypomnema|hypomnema]]
+[[hypomnema|hypomnema]]
 ## Literature notes
 >Specifically, when you’re reading, you ought to be writing your own little **summaries** of the most important things you find.
 >When I’m reading scientific papers, I often try to summarize the most useful findings in my own voice. This is, again, because it makes it far speedier to re-encounter this info months later. But it’s also that the act of **explaining** _to myself_ what the heck it is _I’ve just read_ helps me really internalize the info.

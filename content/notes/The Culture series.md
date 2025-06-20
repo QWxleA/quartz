@@ -5,7 +5,7 @@ public: true
 
 | Title  | Year  |  
 |---|---|
-| Consider Phlebas | (1987) | 
+| [[Consider Phlebas - Iain M Banks]] | (1987) | 
 | [[The Player Of Games - Iain M Banks]] | (1988) |
 | The State of the Art | (1989) |
 | Use of Weapons | (1990) |

@@ -1,7 +1,7 @@
 ---
 title: 🌱 notes are simply components, stripped of context, collected for future use
 date: 2023-04-14
-aliases: 
+aliases:
 tags:
   - combining
   - serendipity

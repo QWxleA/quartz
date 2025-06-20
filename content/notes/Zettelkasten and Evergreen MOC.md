@@ -28,15 +28,15 @@ public: true
 
 1. **Improved Organization**: Streamlined [[Reading workflow 2023|note-taking process]], reducing [[cognitive load theory|cognitive load]]
 2. [[Enhanced Critical Thinking]]: Fostering creativity, innovation, and problem-solving skills
-3. **Increased Productivity**: Automating routine tasks, focusing on high-priority activities
-4. **Personal Growth**: Developing a growth mindset, embracing lifelong learning
+3. [[increased productivity]]: Automating routine tasks, focusing on high-priority activities
+4. [[Personal Growth]]: Developing a growth mindset, embracing lifelong learning
 
 These should be expanded into essays!
 
 ## Best Practices
 
-1. ***Contextual Note Taking***: Reading with a view to how the material fits into your existing knowledge and notes.
-2. ***Pre-Reading Preparation***: Reviewing your ZK before engaging with new content to ensure alignment and focus
+1. [[Contextual Note Taking]]: Reading with a view to how the material fits into your existing knowledge and notes.
+2. [[Pre-Reading Preparation]]: Reviewing your ZK before engaging with new content to ensure alignment and focus
 3. ***Note Quality over Quantity***: Prioritizing depth and accuracy over sheer volume of notes
 4. ***Embracing Imperfection***: Recognizing that no system is perfect, and it's okay to make mistakes
 

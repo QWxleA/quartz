@@ -18,7 +18,7 @@ public: true
 
 Most information we receive daily is of no immediate use, and won't make us a better person. It is more #dopamine then personal growth. Filtering out such information will free up time & resources for better study and mental health. This does take #self_disciple, which is hard and in limited supply.
 
-Why filter what you read? How do you know what to filter? [[Different kinds of knowledge]] Won't you miss out? 
+Why filter what you read? How do you know what to filter? [[Types of Knowledge in Language and Communication]] Won't you miss out? 
 - You'll never finish
 - [[Fear of missing out]] is a terrible reason
 - If you can't be bothered making a note, why bother, you'll have forgotten it next week
