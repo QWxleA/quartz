@@ -25,7 +25,7 @@ These two books represent fundamentally different philosophies about the researc
 
 ```mermaid
 ---
-title: 🔄 Sequential Studying Approach
+title: "🔄 Sequential Studying Approach"
 ---
 flowchart TD
 %% Sequential Approach (Top)
