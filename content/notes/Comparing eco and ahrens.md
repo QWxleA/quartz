@@ -41,8 +41,6 @@ A --> B
 B --> C
 C --> D
 
-
-    %% Sequential characteristics
     A1[Read sources linearly]
     A2[Complete before moving on]
     A3[Passive consumption]
@@ -67,8 +65,7 @@ C --> D
     C1 -.-> C2
     C2 -.-> C3
 end
-	
-%% Styling
+
 classDef seqBox fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
 classDef zetBox fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
 classDef process fill:#fff3e0,stroke:#f57c00,stroke-width:2px
