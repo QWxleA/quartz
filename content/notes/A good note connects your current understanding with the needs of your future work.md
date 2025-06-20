@@ -14,7 +14,7 @@ public: true
 ---
 [[Zettelkasten and Evergreen MOC]] #connection
 
-When finished, an atomic note is good as it is ([[learn to let go]]). But it is not the end of the story. It is finished now but will be a building block for something else tomorrow ([[notes are simply components, stripped of external context, collected for future use]]). 
+Stop fiddling with a note when it’s done ([[learn to let go]]). Later a note can be used as part of a string of notes, ([[notes are simply components, stripped of external context, collected for future use]]), or be improved. If the change is too big, understanding has shifted, then add a new note and add it to the chain. 
 
 Notes are relatively small, its easy to revisit them. Over time our understanding of a subject changes. We also just get better at creating notes. Even if the content of a note changes, connection with other note stay in place. This makes a note a bridge to future understanding. Important to have good titles! [[Declarative titles test the validity of the note's claim]]
 

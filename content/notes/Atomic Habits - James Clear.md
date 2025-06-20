@@ -1,42 +1,37 @@
 ---
 tags:
   - type/book
+  - psychology
+  - memory
 title: Atomic Habits
 author:
   - James Clear
 publisher: Random House
-publish: 2018-10-18
 total: 234
 isbn: 1473537800 9781473537804
 cover: http://books.google.com/books/content?id=fFCjDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-status: unread
-created: 2023-04-21T20:11:03+02:00
-updated: 2023-04-21T20:22:07+02:00
-DateRead:
-  - - 2023-04-21
+status: read
+DateRead: 2023-04-21
 public: true
 ---
 > [!warning] This is an old import and needs to be cleaned up #todo 
 > Way to many highlights, and not enough insights
 
-![[cover!150-17.jpg|200]]
+![[pub_cover_Atomic_Habits.jpg|200]]
 
 # Atomic Habits
-by [[James Clear]] #psychology #memory 
-
-- Cite key:
-- Topics: Self-Help
+by [[James Clear]]
 
 Liked this note on the book: [Atomic Habits](https://notes.alexkehayias.com/atomic-habits/)
 
-## Summary James Clear ()
-<!-- No more than a couple paragraphs summarizing this BOOK -->
+## My notes
+Habits reduce [[cognitive load theory|cognitive load]], they’re [[habits as functions|functions]] to recurring situations. → [[proverbs as schemas]]
 
-THE PHENOMENAL INTERNATIONAL BESTSELLER: 1 MILLION COPIES SOLD Transform your life with tiny changes in behaviour, starting now. People think that when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions: doing two push-ups a day, waking up five minutes early, or holding a single short phone call. He calls them atomic habits. In this ground-breaking book, Clears reveals exactly how these minuscule changes can grow into such life-altering outcomes. He uncovers a handful of simple life hacks (the forgotten art of Habit Stacking, the unexpected power of the Two Minute Rule, or the trick to entering the Goldilocks Zone), and delves into cutting-edge psychology and neuroscience to explain why they matter. Along the way, he tells inspiring stories of Olympic gold medalists, leading CEOs, and distinguished scientists who have used the science of tiny habits to stay productive, motivated, and happy. These small changes will have a revolutionary effect on your career, your relationships, and your life. ________________________________ A NEW YORK TIMES AND SUNDAY TIMES BESTSELLER 'A supremely practical and useful book.' Mark Manson, author of The Subtle Art of Not Giving A F*ck 'James Clear has spent years honing the art and studying the science of habits. This engaging, hands-on book is the guide you need to break bad routines and make good ones.' Adam Grant, author of Originals 'Atomic Habits is a step-by-step manual for changing routines.' Books of the Month, Financial Times 'A special book that will change how you approach your day and live your life.' Ryan Holiday, author of The Obstacle is the Way
+Habits are formed by following a loop–cue, craving, reaponse, reward. As a result, the reward gets associated with the cue. To create a good habit, make it obvious (cue), make it attractive (craving), make it easy (response), make it satisfying (reward). To break a bad habit, invert each step.
 
-## Key ideas James Clear (2018-10-18)
+## Summary
 
-AI generated information:
+Partly based on: [James Clear's Summary](https://jamesclear.com/atomic-habits-summary)
 
 Clear introduces a framework known as the Four Laws of Behavior Change to guide readers in forming positive habits and eliminating detrimental ones.
 
@@ -51,20 +46,18 @@ Focus on [[consistency|consistent]], minor enhancements rather than seeking imme
 **2. Systems Over Goals**
 
 *Overview:*
-The book suggests prioritizing systems—the processes that lead to desired outcomes—over merely setting goals. While ==goals provide direction, systems are the actionable steps that drive progress==. → [[goals suck]]
+The book suggests prioritizing systems—the processes that lead to desired outcomes—over merely setting goals. While ==goals provide direction, systems are the actionable steps that drive progress== → [[goals suck]], also [[workflow]]
 
 *Key Insight:*
 Developing effective systems ensures continuous improvement and sustainable success.
 
-*Source:* [James Clear's Summary](https://jamesclear.com/atomic-habits-summary)
-
 **3. Identity-Based Habits**
 
 *Overview:*
-Clear proposes that lasting behavior change stems from [[transformation|identity transformation]]. Instead of setting specific objectives, individuals should focus on becoming the type of person who can achieve the desired outcome.
+Clear proposes that lasting behavior change stems from identity transformation. Instead of setting specific objectives, individuals should focus on ==becoming the type of person who can achieve the desired outcome==.
 
 *Key Insight:*
-Aligning habits with one's identity fosters consistency and resilience.
+The key insight is that when you adopt an identity, your actions naturally flow from that self-image. Each small action becomes a "vote" for the type of person you want to become, rather than just a step toward a goal. → [[identity based change, the science]]
 
 **4. The Four Laws of Behavior Change**
 
@@ -78,17 +71,9 @@ The framework consists of four principles to establish good habits:
 > - **Make It Satisfying:** Implement immediate rewards to reinforce positive behavior.
 ^4laws
 
-*Key Insight:*
-Applying these laws systematically can effectively build new habits and break unwanted ones.
+[[keep it simple stupid]]
 
-
-## Table of Contents
-<!--Link to table of contents (TOC) -->
-- 
-
-## Notes
-<!-- The main content of my thoughts really -->
-## Imported highlights
+## Imported highlights from Logseq
 - ### Introduction: My Story
   collapsed:: true
 	- I wasn’t going to be starting on the baseball team anytime soon, so I focused on getting my life in order. While my peers stayed up late and played video games, I built good sleep habits and went to bed early each night. In the messy world of a college dorm, I made a point to keep my room neat and tidy. These improvements were minor, but they gave me a sense of control over my life. I started to feel confident again.

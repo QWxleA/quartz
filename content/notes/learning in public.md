@@ -8,6 +8,8 @@ review-frequency: low
 reviewed: 2023-05-16
 public: true
 ---
+Update! [[learning in public - background info]]
+
 Knowing that notes might be read by others motivates to write clearly, and not to use too much shorthand. This will make your future self grateful. Something might look perfectly reasonable now, but incomprehensible in six months.
 
 Making your writing more social, eg talking about writing an-sich and your own writing in particular will improve the quality.
@@ -15,7 +17,7 @@ Making your writing more social, eg talking about writing an-sich and your own w
 This should be balanced with [[Write notes for yourself]]. The writing should be private, the learning public. Don’t limit your writing because theoretically somebody might see.
 
 ## Refererences
-![[The only way to learn in public is to build in public • Mental Nodes#^fear]]
+![[The only way to learn in public is to build in public • Mental Nodes#^8826f1dd]]
 
 ![[@lonkaHelpingDoctoralStudents2003#^6f7zepyu]]
 
